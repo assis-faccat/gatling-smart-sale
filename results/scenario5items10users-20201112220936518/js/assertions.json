@@ -1,0 +1,10 @@
+{
+  "simulation": "smartsale.Scenario5Items10Users",
+  "simulationId": "scenario5items10users",
+  "start": 1605218976518,
+  "description": "",
+  "scenarios": ["Warm up"],
+  "assertions": [
+
+  ]
+}
